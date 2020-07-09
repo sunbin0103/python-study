@@ -1,8 +1,8 @@
-#a = input()
-#print(a)
+a = input()
+print(a)
 
-#b = input("정수를 입력하세요: ")
-#print(b)
+b = input("정수를 입력하세요: ")
+print(b)
 
 x, y = 10, 20
 print(x,y)
